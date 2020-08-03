@@ -4,6 +4,6 @@ Real-time face detection using OpenCV.
 
 ## Requirements
 
-* [Libs]
+* Libs
     * numpy
     * opencv-contrib-python
