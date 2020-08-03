@@ -1,2 +1,9 @@
-# opencv_face_detection
- OpenCV Face Detection
+# face-detection-opencv
+
+Real-time face detection using OpenCV.
+
+## Requirements
+
+* [Libs]
+    * numpy
+    * opencv-contrib-python
