@@ -1,4 +1,4 @@
-# face-detection-opencv
+# Face Detection with OpenCV
 
 Real-time face detection using OpenCV.
 
